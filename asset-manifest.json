@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/rab1/static/css/main.56bc4ba4.css",
+    "main.js": "/rab1/static/js/main.1e3f17bd.js",
+    "static/media/pngwing.com.png": "/rab1/static/media/pngwing.com.f360417450f3aa397fe6.png",
+    "index.html": "/rab1/index.html",
+    "main.56bc4ba4.css.map": "/rab1/static/css/main.56bc4ba4.css.map",
+    "main.1e3f17bd.js.map": "/rab1/static/js/main.1e3f17bd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.56bc4ba4.css",
+    "static/js/main.1e3f17bd.js"
+  ]
+}
